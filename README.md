@@ -46,4 +46,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SAPNILPATEL/Handwritten_Digits_Generation_Using_GAN/blob/master/LICENSE) file for details.
